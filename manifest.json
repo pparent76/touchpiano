@@ -1,0 +1,16 @@
+{
+    "name": "touchpiano.pparent",
+    "description": "A virtual piano optimized for touchscreen based on pianco",
+    "architecture": "@CLICK_ARCH@",
+
+    "title": "Touch piano",
+    "hooks": {
+        "touchpiano": {
+            "apparmor": "touchpiano.apparmor",
+            "desktop":  "touchpiano.desktop"
+        }
+    },
+    "version": "1.35.2-5",
+    "maintainer": "Pierre Parent <pro@pierre-parent.fr>",
+    "framework" : "ubuntu-touch-24.04-1.x"
+}
