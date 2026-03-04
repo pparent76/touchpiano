@@ -1,7 +1,6 @@
 {
     "policy_version": "@APPARMOR_POLICY@",
     "policy_groups": [
-    "networking",
          "audio",
          "webview",
          "keep-display-on"
