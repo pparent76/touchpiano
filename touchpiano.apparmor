@@ -4,6 +4,6 @@
     "networking",
          "audio",
          "webview",
-         "keep-display-on",
+         "keep-display-on"
          ]
 }
